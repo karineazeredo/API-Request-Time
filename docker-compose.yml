@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  web:
+    network_mode: "host"
+    build: .
+    command: python current_hour.py runserver 0.0.0.0:5000
+    image: "image_current_hour"
