@@ -1,12 +1,14 @@
 *Esse projeto coleta uma API simples em HTTP com o horário atual.*
 
-Pré requisitos com versões utilizadas nesse projeto:
+
+### Pré requisitos:
 - Python 3.8
 - Docker 20.10
 - Docker compose 1.29
 
 
-### :fast_forward: Rodar o projeto:
+
+### :fast_forward: Execução do projeto:
 
 1. Instale o python, visite o site oficial:
 https://www.python.org/downloads/
