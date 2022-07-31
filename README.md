@@ -1,4 +1,4 @@
-Esse projeto coleta uma API simples em HTTP com o horário atual.
+*Esse projeto coleta uma API simples em HTTP com o horário atual.*
 
 Pré requisitos com versões utilizadas nesse projeto:
 - Python 3.8
